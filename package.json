@@ -1,0 +1,16 @@
+{
+  "name": "telegrafjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.jsx",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "telegraf": "^3.36.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
